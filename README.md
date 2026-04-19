@@ -45,6 +45,20 @@ node server.js
 - ​Chatting : Ketik pesan atau kirim file. Jika kunci berbeda, pesan akan muncul sebagai [Decryption Failed].
 - ​Keadaan Darurat : Jika ada situasi mengancam, tekan tombol PANIC atau tombol ESC di keyboard untuk segera menghilang.
 
-   Developed by [123Tool / SPY-E]
+---
 
-  ***"Dalam kegelapan, kata-katamu tetap menjadi rahasia."***
+## ⚠️ LEGAL NOTICE & RESTRICTIONS (WARNING)
+
+**DILARANG KERAS:**
+1.  **Modifikasi Tanpa Izin:** Segala bentuk modifikasi kode untuk tujuan publikasi ulang tanpa persetujuan tertulis dari pemilik (123Tool / SPY-E) dilarang.
+2.  **Komersialisasi & Penjualan:** Produk ini **TIDAK UNTUK DIJUAL**. Barangsiapa yang kedapatan memperjualbelikan source code ini akan ditindak tegas sesuai hukum yang berlaku.
+3.  **Distribusi Ilegal:** Dilarang mengunggah ulang (re-upload) atau mendistribusikan link unduhan di platform lain tanpa mencantumkan sumber asli GitHub ini.
+
+**PENGGUNAAN YANG DIIZINKAN:**
+* **Penggunaan Pribadi:** Untuk keperluan belajar, riset, atau penggunaan mandiri.
+* **Komunitas & Perusahaan:** Diizinkan untuk penggunaan internal dalam jaringan lokal (LAN) guna menjaga privasi komunikasi tim, selama tidak ada unsur komersialisasi.
+
+**Copyright © 2026 123Tool (SPY-E). All Rights Reserved.**
+*"Gunakan dengan bijak, hargai karya pengembang."*
+
+
