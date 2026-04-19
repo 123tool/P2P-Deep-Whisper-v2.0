@@ -1,7 +1,7 @@
-# 🌑 DEEP-WHISPER v2.0 (Deep-Web Edition) 🌑
-> **Next-Gen Anonymous P2P Local Chat with E2EE & Self-Destruct Logic.**
+## 😈 P2P CHAT DEEPWEB WHISPER v2.0
+> **Deepweb Anonymous P2P Local Chat E2EE & Self-Destruct Logic.**
 
-**DEEP-WHISPER v2.0** adalah evolusi dari sistem komunikasi lokal yang dirancang khusus untuk privasi ekstrem. Menggunakan estetika *Deep-Web Noir*, versi ini memperkenalkan enkripsi *End-to-End* (E2EE) tingkat militer yang memastikan pesan tidak dapat disadap bahkan oleh admin jaringan sekalipun.
+**DEEP WHISPER v2.0** adalah evolusi dari sistem komunikasi lokal yang dirancang khusus untuk privasi ekstrem. Menggunakan estetika *Deep-Web Noir*, versi ini memperkenalkan enkripsi *End-to-End* (E2EE) tingkat militer yang memastikan pesan tidak dapat disadap bahkan oleh admin jaringan sekalipun.
 
 ---
 
@@ -28,10 +28,23 @@
 Buka Terminal atau Termux, lalu eksekusi:
 ```bash
 # Clone repository
-git clone [https://github.com/123tool/P2P-Chat-Whisper-v1.0.git](https://github.com/123tool/P2P-Chat-Whisper-v1.0.git)
+git clone [https://github.com/123tool/P2P-Deep-Whisper-v2.0.git]
 
 # Masuk ke folder
-cd P2P-Chat-Whisper-v1.0
+cd P2P-Deep-Whisper-v2.0
 
 # Install dependencies profesional
 npm install
+
+# # Jalankan server
+node server.js
+```
+### 📖 Cara Penggunaan :
+- ​Akses Link : Buka IP yang muncul di terminal (misal: http://192.168.1.5:8080).
+- ​Initial Handshake : Anda akan diminta memasukkan Secret Key. Pastikan teman chat Anda memasukkan kunci yang SAMA PERSIS.
+- ​Chatting : Ketik pesan atau kirim file. Jika kunci berbeda, pesan akan muncul sebagai [Decryption Failed].
+- ​Keadaan Darurat : Jika ada situasi mengancam, tekan tombol PANIC atau tombol ESC di keyboard untuk segera menghilang.
+
+   Developed by [123Tool / SPY-E]
+
+  ***"Dalam kegelapan, kata-katamu tetap menjadi rahasia."***
