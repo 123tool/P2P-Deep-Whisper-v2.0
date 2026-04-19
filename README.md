@@ -59,6 +59,7 @@ node server.js
 * **Komunitas & Perusahaan:** Diizinkan untuk penggunaan internal dalam jaringan lokal (LAN) guna menjaga privasi komunikasi tim, selama tidak ada unsur komersialisasi.
 
 **Copyright © 2026 123Tool (SPY-E). All Rights Reserved.**
+
 *"Gunakan dengan bijak, hargai karya pengembang."*
 
 
